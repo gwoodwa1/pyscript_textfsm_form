@@ -4,5 +4,7 @@ Form is completely standalone and does not require hosting.
 
 Must have access to the Internet though to reach the pyscript CDN
 
+Just copy or clone the index.html file and open up in your browser. Tested on Chrome but should work with other browsers
+
 
 ![pyscript](https://user-images.githubusercontent.com/63735312/174481962-ea2c927d-a3eb-45e1-9d90-421a6a1f7be6.png)
