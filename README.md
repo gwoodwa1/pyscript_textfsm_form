@@ -4,6 +4,10 @@ Form is completely standalone and does not require hosting.
 
 Must have access to the Internet though to reach the pyscript CDN
 
+To illustrate the completely standalone capability of pyscript, all the python is contained inside the HTML file.
+However, preference is to host the python .py files on a webserver since it is easier to troubleshoot and maintain.
+Hence I developed this first by hosting the the python code and then moving it inside the HTML file once working.
+
 Just copy or clone the **index.html** and **tabledemo.html** files and open up in your browser. Tested on Chrome but should work with other browsers
 
 **Raw Output Demo**
